@@ -27,11 +27,11 @@ function Footer() {
         </VStack>
         <VStack w={'full'}>
           <Heading size={'md'} textTransform={'uppercase'} >Social Media</Heading>
-          <Button variant={'link'}colorScheme={'white'} ><a target={'_blank'}  href='https://www.youtube.com'>Youtube</a></Button>
+          <Button variant={'link'}colorScheme={'white'} ><a target={'_blank'} rel="noreferrer"  href='https://www.youtube.com'>Youtube</a></Button>
 
-          <Button variant={'link'}colorScheme={'white'} ><a target={'_blank'}  href='https://www.instagram.com'>Instagram</a></Button>
+          <Button variant={'link'}colorScheme={'white'} ><a target={'_blank'} rel="noreferrer"  href='https://www.instagram.com'>Instagram</a></Button>
 
-          <Button variant={'link'}colorScheme={'white'} ><a target={'_blank'} href='https://www.github.com'>Github</a></Button>
+          <Button variant={'link'}colorScheme={'white'} ><a target={'_blank'} rel="noreferrer" href='https://www.github.com'>Github</a></Button>
 
         </VStack>
       </Stack>
